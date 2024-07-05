@@ -1,0 +1,54 @@
+.lg{
+    width: 400px;
+    height: auto;
+    justify-content: right;
+}
+
+header {
+    border: 2px solid #333;
+    background-color: white;
+    color: rgb(255, 0, 0);
+    text-align: center;
+    padding: 10px;
+}
+
+header ul {
+    list-style-type: none;
+}
+
+header ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+header a {
+    text-decoration: none;
+    color: rgb(169, 12, 12);
+}
+
+article {
+    margin: 20px;
+    padding: 20px;
+    background-color: burlywood;
+    border-radius: 5px;
+}
+
+article h1 {
+    font-size: 24px;
+    color: #1100ff;
+}
+
+article p {
+    font-size: 16px;
+    color: #000000;
+}
+
+article ul {
+    list-style-type: square;
+    margin-left: 20px;
+}
+
+article li {
+    font-size: 14px;
+    color: #af1818;
+}
